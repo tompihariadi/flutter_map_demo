@@ -1,8 +1,8 @@
 Flutter map auto zoom camera between two markers.
 =======
-Here example
-<img src="map_demo.gif" width="200">
-![Flutter Map Demo](map_demo.gif){:height="50%" width="50%"}
+Here the demo
+
+<img src="map_demo.gif" width="400">
 
 ## Getting Started
 
