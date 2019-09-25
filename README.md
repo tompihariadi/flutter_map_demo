@@ -3,8 +3,9 @@
 Flutter map auto zoom camera between two markers. 
 =======
 # map_demo
-![](map_demo.gif)
 A new Flutter application.
+Here example
+![Flutter Map Demo](map_demo.gif)
 
 ## Getting Started
 
