@@ -1,11 +1,7 @@
-<<<<<<< HEAD
-# flutter_map_demo
-Flutter map auto zoom camera between two markers. 
+Flutter map auto zoom camera between two markers.
 =======
-# map_demo
-A new Flutter application.
 Here example
-![Flutter Map Demo](map_demo.gif)
+![Flutter Map Demo](map_demo.gif){:height="50%" width="50%"}
 
 ## Getting Started
 
